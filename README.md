@@ -7,8 +7,3 @@ The app will also display the address of the patient or victim via the estate ma
 
 ## API DOCUMENTATION LINK
 
-https://documenter.getpostman.com/view/15595247/VUjMq6jy
-
-## LIVE LINK
-
-https://help-meet.herokuapp.com/api/v1/docs/
